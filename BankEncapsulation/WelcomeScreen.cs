@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BankEncapsulation
 {
-    public class WelcomeScreen
-    {
-        public string 
-    }
+    //public class WelcomeScreen
+    //{
+    //    public string 
+    //}
 }
