@@ -16,12 +16,6 @@ namespace BankEncapsulation
             _balance = amount;
         }
 
-        //public void Withdraw(double amount)
-        //{
-        //    Console.WriteLine($"Initiating your withdraw of {amount,0:c} from your account.");
-        //    _balance = amount;
-        //}
-
         public double GetBalance()
         {
             return _balance;

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 3\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
       "projectName": "BankEncapsulation",
-      "projectPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
+      "projectPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 3\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
       "packagesPath": "C:\\Users\\jayhu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\BankEncapsulation\\BankEncapsulation\\obj\\",
+      "outputPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 3\\BankEncapsulation\\BankEncapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jayhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
